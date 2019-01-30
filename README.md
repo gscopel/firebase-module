@@ -4,4 +4,4 @@
 
 • UI/UX for a chat module
 
-Here is a link to the hosted project via Heroku https://react-chat-app-gscopel.herokuapp.com/
+Here is a link to the deployed project via Heroku https://react-chat-app-gscopel.herokuapp.com/
